@@ -1,6 +1,6 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit](https://img.shields.io/github/last-commit/[username]/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/Soumy-bit/cse103-lab-LAB3)
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
@@ -17,17 +17,15 @@ K.R. Mangalam University, Gurugram.
 ## Repository Structure
 
 ```
-
 cse103-lab-LAB3/
-
-+-- README.md # Project documentation (this file)
-
-+-- CHANGELOG.md # Version history
-
-+-- main.py # Primary Python script
-
-+-- .gitignore # Files excluded from Git tracking
-
++-- README.md          # Project documentation (this file)
++-- CHANGELOG.md       # Version history
++-- MARKDOWN_GUIDE.md  # Markdown syntax practice
++-- src/main.py        # Primary Python script
++-- tests/test_main.py # Placeholder for future tests
++-- docs/setup.md      # Setup guide
++-- users.json         # Sample API response
++-- .gitignore         # Files excluded from Git tracking
 ```
 
 ## Skills Demonstrated
@@ -50,11 +48,11 @@ cse103-lab-LAB3/
 
 ```bash
 
-git clone https://github.com/[username]/cse103-lab-LAB3.git
+git clone https://github.com/Soumy-bit/cse103-lab-LAB3.git
 
 cd cse103-lab-LAB3
 
-python3 main.py
+python3 src/main.py
 
 ```
 
