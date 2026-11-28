@@ -1,7 +1,7 @@
 
 # Python bytecode
 
-pycache/
+__pycache__/
 
 *.py[cod]
 
